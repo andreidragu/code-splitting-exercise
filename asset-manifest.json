@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/code-splitting-exercise/static/js/main.e0399e67.chunk.js",
+    "main.js.map": "/code-splitting-exercise/static/js/main.e0399e67.chunk.js.map",
+    "runtime-main.js": "/code-splitting-exercise/static/js/runtime-main.dce7d542.js",
+    "runtime-main.js.map": "/code-splitting-exercise/static/js/runtime-main.dce7d542.js.map",
+    "static/js/2.906fd292.chunk.js": "/code-splitting-exercise/static/js/2.906fd292.chunk.js",
+    "static/js/2.906fd292.chunk.js.map": "/code-splitting-exercise/static/js/2.906fd292.chunk.js.map",
+    "static/js/3.6fa27aa5.chunk.js": "/code-splitting-exercise/static/js/3.6fa27aa5.chunk.js",
+    "static/js/3.6fa27aa5.chunk.js.map": "/code-splitting-exercise/static/js/3.6fa27aa5.chunk.js.map",
+    "static/js/4.2a8bd795.chunk.js": "/code-splitting-exercise/static/js/4.2a8bd795.chunk.js",
+    "static/js/4.2a8bd795.chunk.js.map": "/code-splitting-exercise/static/js/4.2a8bd795.chunk.js.map",
+    "static/js/5.dbd7d98d.chunk.js": "/code-splitting-exercise/static/js/5.dbd7d98d.chunk.js",
+    "static/js/5.dbd7d98d.chunk.js.map": "/code-splitting-exercise/static/js/5.dbd7d98d.chunk.js.map",
+    "index.html": "/code-splitting-exercise/index.html",
+    "static/js/2.906fd292.chunk.js.LICENSE.txt": "/code-splitting-exercise/static/js/2.906fd292.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/code-splitting-exercise/static/media/logo.034ef726.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce7d542.js",
+    "static/js/2.906fd292.chunk.js",
+    "static/js/main.e0399e67.chunk.js"
+  ]
+}
